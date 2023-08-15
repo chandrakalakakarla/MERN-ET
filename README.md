@@ -1,1 +1,1 @@
-# MERN-ET
+# mern-expense
